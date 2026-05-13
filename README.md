@@ -19,7 +19,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este repositório contém o **microsserviço de Tutores**, desenvolvido por **Luana Oliveira** como parte de um sistema veterinário distribuído em arquitetura de microsserviços.
+Este repositório contém o **microsserviço de Tutores**, como parte de um sistema veterinário distribuído em arquitetura de microsserviços.
 
 O sistema completo é composto por três repositórios independentes, cada um mantido por um(a) integrante da equipe, que se comunicam entre si via **APIs REST**:
 
@@ -124,6 +124,5 @@ O serviço de Agendamentos utiliza o `id_tutor` como **chave estrangeira** para 
 
 ✨ **Projeto acadêmico desenvolvido para estudo de Arquitetura de Microsserviços**
 
-Feito com ☕ e muito Java
 
 </div>
