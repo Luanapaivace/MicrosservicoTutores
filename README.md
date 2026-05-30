@@ -4,13 +4,14 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em%20Produção-brightgreen?style=for-the-badge)
 
 **Microsserviço responsável pelo gerenciamento dos tutores dos animais, parte integrante do Sistema Veterinário desenvolvido em arquitetura de microsserviços.**
+
+🌐 **API em produção:** https://microsservicotutores-production.up.railway.app
 
 </div>
 
@@ -102,8 +103,8 @@ O serviço de Agendamentos utiliza o `id_tutor` como **chave estrangeira** para 
 |---|---|
 | **Java** | Linguagem principal de desenvolvimento |
 | **Spring Boot** | Framework para criação do microsserviço |
-| **Spring Data JPA** | Persistência e mapeamento de dados |
-| **MySQL** | Banco de dados relacional |
+| **Spring Data MongoDB** | Persistência e mapeamento de dados |
+| **MongoDB Atlas** | Banco de dados NoSQL em nuvem |
 | **Maven** | Gerenciamento de dependências |
 
 ### Frontend
@@ -115,6 +116,7 @@ O serviço de Agendamentos utiliza o `id_tutor` como **chave estrangeira** para 
 ### Outros
 | Tecnologia | Finalidade |
 |---|---|
+| **Railway** | Deploy e hospedagem do microsserviço |
 | **GitHub** | Controle de versão e colaboração |
 
 ---
@@ -122,6 +124,5 @@ O serviço de Agendamentos utiliza o `id_tutor` como **chave estrangeira** para 
 <div align="center">
 
 ✨ **Projeto acadêmico desenvolvido para estudo de Arquitetura de Microsserviços**
-
 
 </div>
