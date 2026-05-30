@@ -11,7 +11,6 @@
 
 **Microsserviço responsável pelo gerenciamento dos tutores dos animais, parte integrante do Sistema Veterinário desenvolvido em arquitetura de microsserviços.**
 
-🌐 **API em produção:** https://microsservicotutores-production.up.railway.app
 
 </div>
 
